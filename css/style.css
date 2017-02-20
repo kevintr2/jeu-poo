@@ -1,0 +1,27 @@
+body{
+    background-color: #282828;
+}
+
+.landing{
+    height:100vh;
+
+    position:relative;
+}
+
+.bouton{
+    width:100vw;
+}
+
+.landing button{
+    width:100px;
+    position:absolute;
+    bottom:20%;
+    right:0;
+    left:0;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.character-list{
+
+}
