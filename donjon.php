@@ -14,14 +14,15 @@
 
 <div class="landing">
     <div class="character-list">
-        <div class="radio">
-            <label for="guerrier"><input type="radio" name="guerrier"> Guerrier</label>
+        <h1>Choisis ton héros</h1>
+        <div class="radio col-md-4 col-sm-4 col-lg-4 col-xs-4">
+            <label for="guerrier"><input type="radio" name="guerrier" >Guerrier<img src="img/classe_guerrier.png"></label>
         </div>
-        <div class="radio">
-            <label for="magicien"><input type="radio" name="magicien"> Magicien</label>
+        <div class="radio col-md-4 col-sm-4 col-lg-4 col-xs-4">
+            <label for="magicien"><input type="radio" name="magicien">Magicien<img src="img/classe_mage.png"></label>
         </div>
-        <div class="radio">
-            <label for="paladin"><input type="radio" name="paladin"> Paladin</label>
+        <div class="radio col-md-4 col-sm-4 col-lg-4 col-xs-4">
+            <label for="paladin"><input type="radio" name="paladin"> Paladin<img src="img/classe_paladin.png"></label>
         </div>
     </div>
 

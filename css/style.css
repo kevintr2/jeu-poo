@@ -4,8 +4,10 @@ body{
 
 .landing{
     height:100vh;
-
-    position:relative;
+    position:fixed;
+    background-image: url("../img/door.jpg");
+    background-position: center;
+    background-size: cover;
 }
 
 .bouton{
@@ -23,5 +25,10 @@ body{
 }
 
 .character-list{
+    color: yellow;
+    text-align: center;
+ }
+.character-list img{
+    width: 100%;
 
 }
