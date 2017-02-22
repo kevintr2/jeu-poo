@@ -1,5 +1,18 @@
+@font-face {
+    font-family: 'megafont';
+    src: url('../font/Deutsch-webfont.eot');
+    src: url('../font/Deutsch-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../font/Deutsch-webfont.woff') format('woff');
+    url('../font/Deutsch-webfont.ttf') format('truetype');
+}
+
+
 body{
     background-color: #282828;
+}
+
+h1{
+    font-size: 50px;
 }
 
 .landing{
@@ -25,10 +38,20 @@ body{
 }
 
 .character-list{
-    color: yellow;
+    color: #FC282C;
     text-align: center;
+    font-family: 'megafont';
  }
 .character-list img{
     width: 100%;
 
+}
+
+.description{
+    /*background-image: url("../img/texture_stone.jpg");
+    background-repeat: repeat;*/
+    background-color: rgba(0,0,0,0.5);
+    border: double 5px #4F0B0C ;
+    color: #f5f5f5;
+    font-family: 'Merienda', cursive;
 }
