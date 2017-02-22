@@ -1,16 +1,32 @@
+@font-face {
+    font-family: 'megafont';
+    src: url('../font/Deutsch-webfont.eot');
+    src: url('../font/Deutsch-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../font/Deutsch-webfont.woff') format('woff');
+    url('../font/Deutsch-webfont.ttf') format('truetype');
+}
+
+
 body{
     background-color: #282828;
 }
 
+<<<<<<< HEAD
 .header{
     margin-bottom:50px;
     margin-top:50px;
+=======
+h1{
+    font-size: 50px;
+>>>>>>> ba3910ced92ae02678aa034efc40a63ebd0248c5
 }
 
 .landing{
     height:100vh;
-
-    position:relative;
+    position:fixed;
+    background-image: url("../img/door.jpg");
+    background-position: center;
+    background-size: cover;
 }
 
 .bouton{
@@ -27,6 +43,7 @@ body{
     margin-right:auto;
 }
 
+<<<<<<< HEAD
 .donjon-text{
     color:#fff;
     margin-bottom:70px;
@@ -34,4 +51,23 @@ body{
 
 .donjon-choice{
     color:#fff;
+=======
+.character-list{
+    color: #FC282C;
+    text-align: center;
+    font-family: 'megafont';
+ }
+.character-list img{
+    width: 100%;
+
+}
+
+.description{
+    /*background-image: url("../img/texture_stone.jpg");
+    background-repeat: repeat;*/
+    background-color: rgba(0,0,0,0.5);
+    border: double 5px #4F0B0C ;
+    color: #f5f5f5;
+    font-family: 'Merienda', cursive;
+>>>>>>> ba3910ced92ae02678aa034efc40a63ebd0248c5
 }

@@ -68,7 +68,7 @@
             <state relative-caret-position="240">
               <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
               <folding>
-                <marker date="1487773835000" expanded="true" signature="1338:1340" ph="{...}" />
+                <marker date="1487774037000" expanded="true" signature="1338:1340" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -242,12 +242,12 @@
       <option name="presentableId" value="Default" />
       <updated>1487610957337</updated>
       <workItem from="1487610971179" duration="2903000" />
-      <workItem from="1487772785338" duration="600000" />
+      <workItem from="1487772785338" duration="779000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3503000" />
+    <option name="totallyTimeSpent" value="3682000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -312,7 +312,7 @@
         <state relative-caret-position="90">
           <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding>
-            <marker date="1487773835000" expanded="true" signature="1338:1340" ph="{...}" />
+            <marker date="1487774037000" expanded="true" signature="1338:1340" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -322,7 +322,7 @@
         <state relative-caret-position="240">
           <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
           <folding>
-            <marker date="1487773835000" expanded="true" signature="1338:1340" ph="{...}" />
+            <marker date="1487774037000" expanded="true" signature="1338:1340" ph="{...}" />
           </folding>
         </state>
       </provider>
