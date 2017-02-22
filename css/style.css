@@ -11,21 +11,20 @@ body{
     background-color: #282828;
 }
 
-<<<<<<< HEAD
-.header{
-    margin-bottom:50px;
-    margin-top:50px;
-=======
+
+.header {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
 h1{
     font-size: 50px;
->>>>>>> ba3910ced92ae02678aa034efc40a63ebd0248c5
 }
 
 .landing{
     height:100vh;
     position:fixed;
-    background-image: url("../img/door.jpg");
-    background-position: center;
+    background-image: url("../img/dragon.jpg");
+    background-position: bottom;
     background-size: cover;
 }
 
@@ -43,20 +42,21 @@ h1{
     margin-right:auto;
 }
 
-<<<<<<< HEAD
 .donjon-text{
     color:#fff;
     margin-bottom:70px;
 }
 
-.donjon-choice{
-    color:#fff;
-=======
+.donjon-choice {
+    color: #fff;
+}
+
 .character-list{
-    color: #FC282C;
-    text-align: center;
-    font-family: 'megafont';
- }
+color: #f5f5f5;
+text-align: center;
+font-family: 'Shojumaru', cursive;
+}
+
 .character-list img{
     width: 100%;
 
@@ -69,5 +69,4 @@ h1{
     border: double 5px #4F0B0C ;
     color: #f5f5f5;
     font-family: 'Merienda', cursive;
->>>>>>> ba3910ced92ae02678aa034efc40a63ebd0248c5
 }
