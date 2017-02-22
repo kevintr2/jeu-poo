@@ -13,6 +13,10 @@
 <body>
 
 <div class="landing">
+    <div class="header text-center">
+        <img src="http://placehold.it/600x180" alt="">
+    </div>
+
     <div class="bouton">
         <button class="btn btn-danger">Start</button>
     </div>

@@ -2,6 +2,11 @@ body{
     background-color: #282828;
 }
 
+.header{
+    margin-bottom:50px;
+    margin-top:50px;
+}
+
 .landing{
     height:100vh;
 
@@ -22,6 +27,11 @@ body{
     margin-right:auto;
 }
 
-.character-list{
+.donjon-text{
+    color:#fff;
+    margin-bottom:70px;
+}
 
+.donjon-choice{
+    color:#fff;
 }
